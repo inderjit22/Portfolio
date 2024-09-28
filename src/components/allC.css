@@ -1,0 +1,27 @@
+@font-face {
+    font-family:TS;
+    src: url('../fonts/Trap-SemiBold.otf');
+}
+
+.TitleBox{
+    font-family: TS;
+}
+
+.bg1{
+    overflow: hidden;
+    background: url('../img/bg1.jpg');
+    background-size: cover;
+    top: 0%;
+    opacity: 0.2;
+    left: 0%;
+}
+
+.MTop{
+    font-family: TS;
+}
+
+.ptitle{
+    font-family: TS;
+    font-size: 18px;
+}
+

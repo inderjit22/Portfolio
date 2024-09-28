@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family:TM;
+    src: url('../src/fonts/Trap-Medium.ttf');
+}
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    user-select: none;
+}
+html,body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #F5F5F5;
+    font-family:TM;
+}
+

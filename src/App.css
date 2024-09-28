@@ -1,0 +1,35 @@
+@font-face {
+    font-family: TEB;
+    src: url('../src/fonts/Trap-ExtraBold.otf');
+}
+
+.bt {
+    font-family: TEB;
+}
+
+@font-face {
+    font-family:TSB;
+    src: url('../src/fonts/Trap-SemiBold.otf');
+}
+
+.titleName{
+    font-family:TSB;
+    font-size: 2.7rem;
+}
+
+@font-face {
+    font-family:TM;
+    src: url('../src/fonts/Trap-Medium.ttf');
+    
+}
+
+.titleDis{
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+.skillText{
+    font-family: TEB;
+    font-size: 3.7vw;
+}
+
